@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Ian Davis (ICREATIVE CO)
-💻 Digital Marketer | Web Developer | Tech Enthusiast  
+# 👋 Hi, I'm dav.exe (ICREATIVE CO)
+💻 Digital Marketer | Web Developer | Linux Enthusiast  
 🚀 I build modern, fast, and responsive web solutions for businesses in Kenya.
 
 ### 🧰 Tech Stack
