@@ -61,20 +61,4 @@ Hire, collaborate, or say hi
 - LinkedIn: https://www.linkedin.com/in/yourprofile
 - Work with dav.exe at: ICREATIVE CO — contact for consulting, contracting, or full-time collaboration
 
-Quick checklist to complete after pasting
------------------------------------------
-- Pin 3–6 repos that best show product + technical skills
-- Replace placeholder projects with real repo links and short stats
-- Add screenshots/GIFs to each project README and a short demo link
-- Add badges: build/test/coverage/demo for each pinned repo
-- Add topics to repos (e.g., react, typescript, nextjs, product, cli, ds)
-
-Tone + copy notes
------------------
-Keep copy action-oriented and outcome-driven. Replace “I” with “dav.exe / ICREATIVE CO” in places when you want a brand voice; use “I” when you want personal touch for hiring.
-
-If you’d like, I can now:
-- Pull your real repos and auto-fill the “Selected projects” with actual descriptions and metrics (paste a list of repos or let me re-try the repo scan).
-- Generate hero images / badges and short case-study blurbs for 3 repos you pick.
-
 📫 **Reach me:** [icreative.co.ke](https://icreative.co.ke) | 📧 icreative@gmail.com
